@@ -39,3 +39,13 @@ Run commands from the repository root. These checks validate local cases; the li
 ## Automation status
 
 The recurring schedule is managed outside GitHub. This repository contains solution work, not a self-running submission bot; its contents do not guarantee that tomorrow’s run will execute. Practice solutions may be AI-assisted. Do not use assistance in a contest or assessment that prohibits it.
+
+## Continuous regression checks
+
+Run `python3 scripts/check_solutions.py` to discover and execute every Python
+`test_*.py` harness below `solutions/`, including future dated folders. A failure,
+timeout, or missing harness set returns a nonzero exit code. Pull requests and
+pushes to `main` run the same command in GitHub Actions on Python 3.12.
+
+This checks the committed local cases only. It does not submit code to a platform,
+claim a new accepted result, or guarantee the daily external scheduler runs.
