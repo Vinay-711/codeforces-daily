@@ -6,4 +6,6 @@
 
 - [Team](team/README.md) — **Accepted**.
 
-- [Next Round](next-round/README.md) — **Blocked — anti-bot verification required; not submitted**.
+- [Next Round](next-round/README.md) — **Accepted**.
+
+Next Round judge verification: [396993146](https://codeforces.com/problemset/submission/158/396993146). All three daily Codeforces questions are accepted.
