@@ -18,6 +18,24 @@ Use archived, unrated practice problems where platform rules permit assistance a
 
 Commit only substantive new or corrected solutions and their verification records. Do not generate empty commits, backdate work or claim a solve that was not verified. A blocked day may produce a locally tested prepared solution, clearly labeled as such, but does not count as an accepted platform submission.
 
-## Status
+## Practice index
 
-Repository initialized. No daily solutions are claimed by this setup commit. The recurring schedule is managed by Codex; this repository does not run an independent submission bot.
+| Date (Asia/Kolkata) | Problem folders |
+| --- | ---: |
+| [2026-11-01](solutions/2026-11-01/README.md) | 3 |
+
+## Run local checks
+
+Python 3 is sufficient for the checked-in test harnesses:
+
+```sh
+python3 solutions/2026-11-01/next-round/test_solution.py
+python3 solutions/2026-11-01/team/test_solution.py
+python3 solutions/2026-11-01/way-too-long-words/test_solution.py
+```
+
+Run commands from the repository root. These checks validate local cases; the linked platform submission records are the evidence for judge verdicts. Review each problem’s README for its approach, complexity and actual result.
+
+## Automation status
+
+The recurring schedule is managed outside GitHub. This repository contains solution work, not a self-running submission bot; its contents do not guarantee that tomorrow’s run will execute. Practice solutions may be AI-assisted. Do not use assistance in a contest or assessment that prohibits it.
