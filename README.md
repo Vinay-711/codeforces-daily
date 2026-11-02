@@ -22,6 +22,7 @@ Commit only substantive new or corrected solutions and their verification record
 
 | Date (Asia/Kolkata) | Problem folders |
 | --- | ---: |
+| [2026-11-02](solutions/2026-11-02/README.md) | 1 prepared, submission blocked |
 | [2026-11-01](solutions/2026-11-01/README.md) | 3 |
 
 ## Run local checks
