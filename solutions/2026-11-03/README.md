@@ -1,11 +1,11 @@
-# Practice log — 2026-11-03
+# Practice log — 2026-11-03 (Asia/Kolkata)
 
-Date: Asia/Kolkata. Archived noncompetitive practice; AI-assisted Java solutions.
+Verified archived practice. The scheduled daily three and the later user-requested extra/hard sets are tracked separately in the run logs. Earlier easy solutions are not counted toward the hard-only target.
 
-| Problem | Actual status | Judge record |
+| Problem | Actual result | Evidence |
 | --- | --- | --- |
-| [beautiful-matrix](beautiful-matrix/README.md) | Accepted | [397225199](https://codeforces.com/problemset/submission/263/397225199) |
-| [helpful-maths](helpful-maths/README.md) | Accepted | [397225167](https://codeforces.com/problemset/submission/339/397225167) |
-| [petya-and-strings](petya-and-strings/README.md) | Accepted | [397225077](https://codeforces.com/problemset/submission/112/397225077) |
-
-All three were previously unsolved. Earlier Blocked records were prepared before login and anti-bot verification were completed; the final results above supersede them. Original source, complexity explanations and edge-case tests are in each folder.
+| [beautiful-matrix](beautiful-matrix/README.md) | Accepted | See problem record |
+| [bit-plus-plus](bit-plus-plus/README.md) | Accepted | [Judge](https://codeforces.com/contest/282/submission/397263152) |
+| [boy-or-girl](boy-or-girl/README.md) | Accepted | [Judge](https://codeforces.com/contest/236/submission/397263255) |
+| [helpful-maths](helpful-maths/README.md) | Accepted | See problem record |
+| [petya-and-strings](petya-and-strings/README.md) | Accepted | See problem record |
