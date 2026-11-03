@@ -8,3 +8,4 @@
 | [311B, Cats Transport](cats-transport/README.md) | 2400 | [Accepted](https://codeforces.com/contest/311/submission/397271951) |
 | [786C, Till I Collapse](till-i-collapse/README.md) | 2400 | [Accepted](https://codeforces.com/contest/786/submission/397272305) |
 | [446C, DZY Loves Fibonacci Numbers](dzy-loves-fibonacci-numbers/README.md) | 2400 | [Accepted](https://codeforces.com/contest/446/submission/397272088) |
+| [55D, Beautiful numbers](beautiful-numbers/README.md) | 2500 | [Accepted](https://codeforces.com/contest/55/submission/397272734) |
