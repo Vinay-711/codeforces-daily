@@ -2,7 +2,9 @@
 
 Problem: [petya-and-strings](https://codeforces.com/problemset/problem/112/A)
 
-Status: **Blocked** — locally tested, unsubmitted. Codeforces is logged out; the normal login path encounters Cloudflare verification and an unavailable page. Human sign-in is required. The public submission history confirms this problem has no accepted submission for vinay711.
+Status: **Accepted** — verified on 2026-11-03 (Asia/Kolkata).
+
+Submission: [397225077](https://codeforces.com/problemset/submission/112/397225077), Java 21.
 
 ## Approach
 
@@ -13,3 +15,5 @@ Complexity: O(n) time and O(n) input storage.
 ## Verification
 
 Run `python3 solutions/2026-11-03/petya-and-strings/test_solution.py` from the repository root. The harness compiles Java into a temporary directory, checks the examples and original boundary cases. Local tests do not establish an accepted verdict.
+
+Recovery: sign-in was restored and the user completed the required anti-bot verification. The final judge result is confirmed in the normal status page and official user.status API.

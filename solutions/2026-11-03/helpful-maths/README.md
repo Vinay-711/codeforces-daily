@@ -2,7 +2,9 @@
 
 Problem: [helpful-maths](https://codeforces.com/problemset/problem/339/A)
 
-Status: **Blocked** — locally tested, unsubmitted. Codeforces is logged out; the normal login path encounters Cloudflare verification and an unavailable page. Human sign-in is required. The public submission history confirms this problem has no accepted submission for vinay711.
+Status: **Accepted** — verified on 2026-11-03 (Asia/Kolkata).
+
+Submission: [397225167](https://codeforces.com/problemset/submission/339/397225167), Java 21.
 
 ## Approach
 
@@ -13,3 +15,5 @@ Complexity: O(n) time and O(n) output storage.
 ## Verification
 
 Run `python3 solutions/2026-11-03/helpful-maths/test_solution.py` from the repository root. The harness compiles Java into a temporary directory, checks the examples and original boundary cases. Local tests do not establish an accepted verdict.
+
+Recovery: sign-in was restored and the user completed the required anti-bot verification. The final judge result is confirmed in the normal status page and official user.status API.
