@@ -6,4 +6,5 @@
 | [449D, Jzzhu and Numbers](jzzhu-and-numbers/README.md) | 2400 | [Accepted](https://codeforces.com/contest/449/submission/397270120) |
 | [375D, Tree and Queries](tree-and-queries/README.md) | 2400 | [Accepted](https://codeforces.com/contest/375/submission/397270207) |
 | [311B, Cats Transport](cats-transport/README.md) | 2400 | [Accepted](https://codeforces.com/contest/311/submission/397271951) |
+| [786C, Till I Collapse](till-i-collapse/README.md) | 2400 | [Accepted](https://codeforces.com/contest/786/submission/397272305) |
 | [446C, DZY Loves Fibonacci Numbers](dzy-loves-fibonacci-numbers/README.md) | 2400 | [Accepted](https://codeforces.com/contest/446/submission/397272088) |
