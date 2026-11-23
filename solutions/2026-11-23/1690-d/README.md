@@ -6,7 +6,7 @@ Date: 2026-11-23 (Asia/Kolkata). Status: **Accepted**. Platform: **Codeforces**.
 
 ## Approach
 
-Sliding window of size k counts whites; minimum count is answer. O(n) time, O(1) extra space per test case.
+Sliding window counts whites in each length‑k segment; answer is the minimum count. Time O(n) per test case, total O(Σn) ≤ 2·10^5. Extra space O(1).
 
 ## Verification
 

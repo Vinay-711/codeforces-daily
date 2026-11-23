@@ -11,16 +11,15 @@ public class Main {
             int n = Integer.parseInt(st.nextToken());
             int k = Integer.parseInt(st.nextToken());
             String s = br.readLine().trim();
-            int[] a = new int[n];
-            for (int i = 0; i < n; i++) {
-                a[i] = (s.charAt(i) == 'W') ? 1 : 0;
+            int whites = 0;
+            for (int i = 0; i < k; i++) {
+                if (s.charAt(i) == 'W') whites++;
             }
-            int sum = 0;
-            for (int i = 0; i < k; i++) sum += a[i];
-            int ans = sum;
+            int ans = whites;
             for (int i = k; i < n; i++) {
-                sum += a[i] - a[i - k];
-                if (sum < ans) ans = sum;
+                if (s.charAt(i) == 'W') whites++;
+                if (s.charAt(i - k) == 'W') whites--;
+                if (whites < ans) ans = whites;
             }
             out.append(ans).append('\n');
         }
